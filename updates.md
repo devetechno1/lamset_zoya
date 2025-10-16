@@ -663,7 +663,7 @@ Users on RTL locales (e.g., Arabic) saw OTP cells flow right-to-left, which is c
 - Back behavior: go back within WebView if possible; otherwise navigate to `/`.
 
 ### Config
-- Updated `DOMAIN_PATH` to `sellerwise.devefinance.com`.
+- Updated `DOMAIN_PATH` to `lamsetzoya.com`.
 
 ### Tech
 - `NavigationService.handleUrls` now supports `useGo` to choose between `context.go` and `context.push`.
@@ -693,7 +693,7 @@ Users on RTL locales (e.g., Arabic) saw OTP cells flow right-to-left, which is c
 <summary><strong>AV 9.10.20 – Point API to local dev server</strong></summary>
 
 ### Config
-- `DOMAIN_PATH` set to `sellerwise.devefinance.com`.
+- `DOMAIN_PATH` set to `lamsetzoya.com`.
 - `RAW_BASE_URL` switched to `http://192.168.100.200:8080/devef` (overrides `PROTOCOL + DOMAIN_PATH`).
 - Effective `BASE_URL`: `http://192.168.100.200:8080/devef/api/v2`.
 
@@ -779,7 +779,7 @@ Users on RTL locales (e.g., Arabic) saw OTP cells flow right-to-left, which is c
 - Back behavior: go back within WebView if possible; otherwise navigate to `/`.
 
 ### Config
-- Updated `DOMAIN_PATH` to `sellerwise.devefinance.com`.
+- Updated `DOMAIN_PATH` to `lamsetzoya.com`.
 
 ### Tech
 - `NavigationService.handleUrls` now supports `useGo` to choose between `context.go` and `context.push`.

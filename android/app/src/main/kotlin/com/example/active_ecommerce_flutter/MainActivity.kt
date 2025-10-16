@@ -1,4 +1,4 @@
-package com.devefinancestore
+package com.lamsetzoya.lamsetzoya
 
 import android.content.ContentValues
 import android.net.Uri
