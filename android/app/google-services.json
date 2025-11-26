@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016458664692",
+    "project_id": "lamset-zoya",
+    "storage_bucket": "lamset-zoya.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016458664692:android:c1965c631395c962ea1ca1",
+        "android_client_info": {
+          "package_name": "com.lamsetzoya.lamsetzoya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3VL4zafqyPvgWRabV37ELHkYyKI6X7uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
