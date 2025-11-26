@@ -18,7 +18,7 @@ publish_to: "none" # Remove this line if you wish to publish to pub.dev
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 
 # flutter pub upgrade --major-versions
-version: 1.1.2+4
+version: 2.1.4+6
 
 environment:
   sdk: ">=3.5.0 <4.0.0"
@@ -80,6 +80,7 @@ dependencies:
   connectivity_plus: ^6.1.4
   device_info_plus: ^11.3.0
   animated_text_lerp: ^2.0.0
+  cupertino_icons: ^1.0.8
 dependency_overrides:
   badges: ^3.1.2
   # bordered_text: ^2.0.0
@@ -180,6 +181,7 @@ flutter:
     - assets/htmls/
     - assets/fonts/
     - dummy_assets/
+    - shorebird.yaml
   fonts:
     - family: PublicSansSerif
       fonts:
